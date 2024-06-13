@@ -31,6 +31,7 @@ export function PitchCarusel() {
       try {
         // const data = await setViewCount("pitch");
         // setViews(data);
+        setViews(18000);
       } catch {}
     }
 
