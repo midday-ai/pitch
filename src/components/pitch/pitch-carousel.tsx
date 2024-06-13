@@ -1,6 +1,6 @@
 "use client";
 
-// import { setViewCount } from "@/actions/set-view-count";
+import { setViewCount } from "@/actions/set-view-count";
 import { SectionBook } from "@/components/pitch/section-book";
 import { SectionDemo } from "@/components/pitch/section-demo";
 import { SectionNext } from "@/components/pitch/section-next";
